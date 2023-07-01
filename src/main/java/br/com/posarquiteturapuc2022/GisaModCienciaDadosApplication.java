@@ -13,5 +13,10 @@ public class GisaModCienciaDadosApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GisaModCienciaDadosApplication.class, args);
 	}
+	
+	/*
+	 * Gerar relatorios de quantos associado e prestadores por UF
+	 *  
+	 */
 
 }
